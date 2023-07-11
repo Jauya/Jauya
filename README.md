@@ -1,4 +1,15 @@
-### Hi there 👋
+<div>
+
+
+<h1>Hi, I'm Fernando Jauya 👋</h1>
+<p>Web Developer (JS, NodeJS)</p>
+
+<img width="300" height="200" src="/images/rocket.gif">
+
+</div>
+
+
+
 
 <!--
 **Jauya/Jauya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
