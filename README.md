@@ -62,7 +62,7 @@ Aquí puedes ver algunos de los proyectos que he realizado con las tecnologías 
 
 Visita mis ultimos avances: 
 
-[![Repositories](https://img.shields.io/badge/-Repositorios-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jauya?tab=repositories/)
+[![Repositories](https://img.shields.io/badge/-Repositorios-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jauya?tab=repositories)
 <hr>
 
 ## Contacto
