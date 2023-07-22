@@ -1,11 +1,8 @@
-<div>
-<h2 align="center">
-  Welcome to my GitHub!
-</h2>
-<p align="center">
-  <img width="300" height="300" src="/images/rocket.gif">
-</p>
-
+<div align="center">
+  
+## Bienvenido a mi GitHub!
+  
+<img width="300" height="300" src="/images/rocket.gif">
 </div>
 
   
