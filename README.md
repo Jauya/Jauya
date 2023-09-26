@@ -52,11 +52,6 @@ Estas son algunas de las tecnologías y lenguajes que manejo:
 
 ## Proyectos destacados
 
-Aquí puedes ver algunos de los proyectos que he realizado con las tecnologías que mencioné:
-<hr>
-<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="480" height="270">
-<p>Working...</p>
-
 Visita mis ultimos avances: 
 
 [![Repositories](https://img.shields.io/badge/-Repositorios-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jauya?tab=repositories)
