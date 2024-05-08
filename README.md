@@ -14,7 +14,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Jauya?style=social)
 
-Soy estudiante de ingeniería de software y me apasiona el desarrollo web. Me gusta crear aplicaciones web innovadoras y funcionales, usando las mejores prácticas y las últimas tecnologías. Mi objetivo es convertirme en un desarrollador web profesional y contribuir a la comunidad.
+Soy egresado de ingeniería de software y me apasiona el desarrollo web. Me gusta crear aplicaciones web innovadoras y funcionales, usando las mejores prácticas y las últimas tecnologías. Mi objetivo es convertirme en un desarrollador web profesional y contribuir a la comunidad.
 
 ## Índice de contenido
 
