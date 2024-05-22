@@ -8,7 +8,7 @@
   
 # Hola, soy Fernando Jauya 👋
 
-![Web Developer](https://img.shields.io/badge/-Web%20Developer-blueviolet?style=for-the-badge) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Web Developer](https://img.shields.io/badge/-Web%20Developer-blueviolet?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
